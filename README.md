@@ -56,6 +56,25 @@ git add
 git commit -m "descrição"
 git push origin main
 ```
+## citações 
+```
+> uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+```
+>uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+
+# formatação de texto 
+
+## tabelas 
+|tecnologia |finalidade|
+| --- | ---|
+
+|git | hospedagem | documetação |
+| :--- | :---: | ---:|
+| texto | texto | texto|
+
+# imagem
+![aula-3-](/imagem/baixados.webp)
+
 
 
 
